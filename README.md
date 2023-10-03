@@ -1,4 +1,7 @@
 # MyCpp
+
+*Here are found the notions learned and practical by me*
+
 Key topics covered include.
 * Looping with while, do/while for, range-based for statements and recursion
 * Performing calculations and displaying results
